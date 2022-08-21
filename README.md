@@ -1,4 +1,3 @@
-# Alx-pre-coures
 0x01-git
 bash, c, js
 c/c_is_fun.c
